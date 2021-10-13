@@ -7,4 +7,4 @@ let b = 10;
 let c = 2;
 
 let result = a + b * c;
-console.log(result);
+console.log(result);                                
